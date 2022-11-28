@@ -1,6 +1,6 @@
 # **_Atividade 3_**
 
-Trecho de codigo da classe Hamburger que estende da classe Product
+Trecho de codigo da classe Hamburger que extende da classe Product
 
 ```javascript
 import { Product } from "./Product";
@@ -22,3 +22,9 @@ export class Hamburger extends Product {
     }
 }
 ```
+
+### Classes
+
+-   Constructor
+-   Extensões de classes
+-   Acesso a variaveis
