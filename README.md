@@ -28,3 +28,7 @@ export class Hamburger extends Product {
 -   Constructor
 -   Extensões de classes
 -   Acesso a variaveis
+
+[Mais informações](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Classes)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"  height="50">
